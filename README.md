@@ -8,7 +8,7 @@ Bye for now!
 \
 [@tester1121.](https://github.com/tester1121)
 
-<div align="center">You are visitor ![Visitor Count](https://profile-count.glitch.me/tester1121/count.svg)
+You are visitor ![Visitor Count](https://profile-counter.glitch.me/tester1121/count.svg)  </div>
 
 <!--
 **tester1121/tester1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
